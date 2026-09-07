@@ -5,15 +5,15 @@ about:
   head: 09a4732
   archived: false
   latestVersion: "v2.2"
-  collectedAt: 2026-09-07T04:42:58Z
+  collectedAt: 2026-09-07T19:48:57Z
 timeline:
   created: 2016-07-06
   lastCommit: 2026-08-16
   lastRelease: 2023-12-29
 popularity:
-  star: 3541
+  star: 3542
   watcher: 57
-  fork: 168
+  fork: 169
   release: 13
   contributor: 30
   pullRequest: 55
@@ -82,7 +82,7 @@ total:
   commit: 344
 ---
 path: /home/runner/.x-repo/github.com/jarun/ddgr
-collectedAt: 2026-09-07T04:42:58Z
+collectedAt: 2026-09-07T19:48:58Z
 loc:
   Python:
     code: 1726
@@ -201,7 +201,7 @@ checks:
       - 'Warn: 0 commits out of 17 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:42:59+00:00
+  collectedAt: 2026-09-07T19:48:59+00:00
   platform:
     darwin/arm64:
       name:  null
