@@ -204,4 +204,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 17 are checked with a SAST tool'
 ---
-{"id":135327197,"author":{"login":"jarun","id":5959286,"node_id":"MDQ6VXNlcjU5NTkyODY=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOA70Ubc4IEO3d","tag_name":"v2.2","target_commitish":"main","name":"ddgr v2.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2023-12-29T02:18:35Z","updated_at":"2023-12-29T02:40:19Z","published_at":"2023-12-29T02:24:33Z","assets":[],"body":"- [x] Change User Agent (fixes #158)\r\n- [x] Discontinue Python 3.7 support (EOL)\r\n\r\n<p>\r\n<a href=\"https://github.com/sponsors/jarun\"><img src=\"https://img.shields.io/badge/sponsor-jarun-1eb0fc.svg\" alt=\"Sponsor\" /></a>\r\n</p>","reactions":{"total_count":13,"+1":10,"-1":0,"laugh":0,"hooray":3,"confused":0,"heart":0,"rocket":0,"eyes":0}}
