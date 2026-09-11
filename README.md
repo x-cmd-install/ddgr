@@ -12,33 +12,7 @@
 x install ddgr
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/jarun/ddgr>
-- **License**: GPL-3.0
-
-## Release
-
-- **Latest**: `v2.2` (2023-12-29)
-- **Last commit**: 2026-08-16
-
-## Popularity
-
-- **Stars**: 3,545 · **Forks**: 169 · **Open issues**: 129 · **Contributors**: 30
-
-## Totals (cumulative)
-
-- **Releases**: 13 · **Merged PRs**: 43 · **Open PRs**: 1 · **Closed issues**: 129 · **Open issues**: 0 · **Commits**: 344
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 2 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 3 |
-| 360d | 2025-09-15 | 0 | 4 | 1 | 5 | 0 | 13 |
-
-## Code size
+## Code insight
 
 Total: **2,005** lines of code across **7** files in the top 5 languages.
 
@@ -60,6 +34,35 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Maintained** (4/10) — 4 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 4
 
+## Source
+
+- **Upstream**: <https://github.com/jarun/ddgr>
+- **License**: GPL-3.0
+
+## Release
+
+- **Latest**: `v2.2` (2023-12-29)
+- **Last commit**: 2026-08-16
+
+## Popularity
+
+- **Stars**: 3,547 · **Forks**: 169 · **Open issues**: 129 · **Contributors**: 30
+
+## Totals (cumulative)
+
+- **Releases**: 13 · **Merged PRs**: 43 · **Open PRs**: 1 · **Closed issues**: 129 · **Open issues**: 0 · **Commits**: 344
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 3 |
+| last180d | 2026-03-15 | 0 | 1 | 1 | 2 | 0 | 6 |
+| 360d | 2025-09-16 | 0 | 4 | 1 | 5 | 0 | 13 |
+| last720d | 2024-09-21 | 0 | 8 | 1 | 8 | 0 | 33 |
+
 ## Improve this data
 
 Install metadata for ddgr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ddgr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -69,4 +72,4 @@ Install metadata for ddgr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:22:29Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:14:30Z._
