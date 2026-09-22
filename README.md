@@ -30,9 +30,9 @@ Overall score: **2.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 8/21 approved changesets -- score normalized to 3
-- **Token-Permissions** (-1/10) — No tokens found
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
+- **Maintained** (4/10) — 4 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 4
 
 ## Source
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 2 |
-| 90d | 2026-06-23 | 0 | 0 | 0 | 0 | 0 | 3 |
-| last180d | 2026-03-25 | 0 | 1 | 1 | 2 | 0 | 6 |
-| 360d | 2025-09-26 | 0 | 4 | 1 | 5 | 0 | 13 |
-| last720d | 2024-10-01 | 0 | 8 | 1 | 8 | 0 | 33 |
+| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 3 |
+| last180d | 2026-03-26 | 0 | 1 | 1 | 2 | 0 | 6 |
+| 360d | 2025-09-27 | 0 | 4 | 1 | 5 | 0 | 13 |
+| last720d | 2024-10-02 | 0 | 8 | 1 | 8 | 0 | 33 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for ddgr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:54:14Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:51:17Z._
