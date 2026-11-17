@@ -26,13 +26,13 @@ x install ddgr
 
 ## OpenSSF Scorecard 评分
 
-总评分: **2.8 / 10**
+总评分: **2.5 / 10**
 
 评分最低的几项:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Code-Review** (3/10) — Found 8/21 approved changesets -- score normalized to 3
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
+- **Token-Permissions** (-1/10) — No tokens found
+- **Maintained** (4/10) — 3 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 4
 
 ## 源代码
 
@@ -56,12 +56,12 @@ x install ddgr
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-17 | 0 | 0 | 0 | 1 | 0 | 3 |
-| 90d | 2026-08-18 | 0 | 0 | 0 | 1 | 0 | 3 |
-| last180d | 2026-05-20 | 0 | 1 | 0 | 2 | 0 | 9 |
-| 360d | 2025-11-21 | 0 | 4 | 0 | 6 | 0 | 14 |
-| last720d | 2024-11-26 | 0 | 8 | 0 | 9 | 0 | 36 |
+| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 3 |
+| last60d | 2026-09-18 | 0 | 0 | 0 | 1 | 0 | 3 |
+| 90d | 2026-08-19 | 0 | 0 | 0 | 1 | 0 | 3 |
+| last180d | 2026-05-21 | 0 | 1 | 0 | 2 | 0 | 9 |
+| 360d | 2025-11-22 | 0 | 4 | 0 | 6 | 0 | 14 |
+| last720d | 2024-11-27 | 0 | 8 | 0 | 9 | 0 | 36 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ ddgr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T06:29:35Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T07:51:47Z._
