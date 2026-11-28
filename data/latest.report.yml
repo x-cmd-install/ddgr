@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.2"
   latestRelease: "v2.2"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:18:03Z
+  collectedAt: 2026-11-28T07:47:57Z
 timeline:
   created: 2016-07-06
   lastCommit: 2026-11-22
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2023-12-29
   lastPrerelease: 
 popularity:
-  star: 3580
+  star: 3583
   watcher: 56
   fork: 167
   release: 13
@@ -30,47 +30,47 @@ language:
 totalBytes: 106052
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 6
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 6
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 0
+    commit: 6
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
-    mergedPR: 1
+    mergedPR: 0
     openPR: 0
     closedIssue: 2
     openIssue: 0
-    commit: 0
+    commit: 11
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 3
     openPR: 0
     closedIssue: 6
     openIssue: 0
-    commit: 0
+    commit: 15
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 8
     openPR: 0
@@ -86,7 +86,7 @@ total:
   commit: 350
 ---
 path: /home/runner/.x-repo/github.com/jarun/ddgr
-collectedAt: 2026-11-27T08:18:04Z
+collectedAt: 2026-11-28T07:47:58Z
 loc:
   Python:
     code: 1933
